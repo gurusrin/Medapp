@@ -1,0 +1,4 @@
+/*Grid needs an explicit height by default*/
+#gridDiv {
+    height: 20em;
+} 

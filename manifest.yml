@@ -1,0 +1,9 @@
+---
+applications:
+- name: medapp
+  memory: 256M
+  instances: 1
+  host: di-medapp
+  domain: stage1.mybluemix.net
+  path: .
+  buildpack: php_buildpack

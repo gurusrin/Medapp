@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="en"><!-- Test page. 	 -->
 	<head>
 		<meta charset="utf-8">
 		<title>Demo: dojo/request/xhr JSON</title>
